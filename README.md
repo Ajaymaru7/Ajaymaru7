@@ -6,11 +6,11 @@
 
 
 
-- 🔭 I’m currently working on [Portfolio Website](ajaymaruportfolio.netlify.app)
+- 🔭 I’m currently working on [Portfolio Website]([ajaymaruportfolio.netlify.app](https://ajaymaruportfolio.netlify.app/))
 
 - 🌱 I’m currently learning **Python, MongoDB**
 
-- 👨‍💻 All of my projects are available at [ajaymaruportfolio.netlify.app](ajaymaruportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at ([ajaymaruportfolio.netlify.app](https://ajaymaruportfolio.netlify.app/))
 
 - 💬 Ask me about **Python, Asp.Net**
 
