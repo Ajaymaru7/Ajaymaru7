@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on [Portfolio Website]([[ajaymaruportfolio.netlify.app](https://ajaymaruportfolio.netlify.app/))
+- 🔭 I’m currently working on [Portfolio Website]https://ajaymaru.netlify.app/
 
 - 🌱 I’m currently learning **Python, MongoDB**
 
