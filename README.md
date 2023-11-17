@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python, MongoDB**
 
-- 👨‍💻 All of my projects are available at (https://ajaymaruportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at https://ajaymaru.netlify.app/
 
 - 💬 Ask me about **Python, Asp.Net**
 
