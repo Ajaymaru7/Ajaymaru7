@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **maruajay603@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1-LaBig4uKkLiW7CCnHZhG-6n8hyGaOM3](https://drive.google.com/drive/folders/1-LaBig4uKkLiW7CCnHZhG-6n8hyGaOM3)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1-LaBig4uKkLiW7CCnHZhG-6n8hyGaOM3](https://drive.google.com/file/d/1VOrzgBDjC8mVbhmMoIzaWCZ4mKBQsoLj/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
