@@ -5,11 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaymaru7&label=Profile%20views&color=0e75b6&style=flat" alt="ajaymaru7" /> </p>
 
 
-- 🔭 I’m currently working on [Portfolio Website](([https://ajaymaru.netlify.app/](https://ajaymaru.vercel.app/)))
+- 🔭 I’m currently working on [Portfolio Website](([https://ajaymaru.vercel.app/](https://ajaymaru.vercel.app/)))
 
 - 🌱 I’m currently learning **Python, MongoDB**
 
-- 👨‍💻 All of my projects are available at [([https://ajaymaru.netlify.app/](https://ajaymaru.vercel.app/))]
+- 👨‍💻 All of my projects are available at [([https://ajaymaru.vercel.app/](https://ajaymaru.vercel.app/))]
 
 - 💬 Ask me about **Python, Asp.Net**
 
