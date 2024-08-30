@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Ajay Maru</h1>
+/<h1 align="center">Hi 👋, I'm Ajay Maru</h1>
 <h3 align="center">A Passionate FullStack Developer From India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaymaru7&label=Profile%20views&color=0e75b6&style=flat" alt="ajaymaru7" /> </p>
 
 
-- 🔭 I’m currently working on [Portfolio Website]((https://ajaymaru.netlify.app/))
+- 🔭 I’m currently working on [Portfolio Website](([https://ajaymaru.netlify.app/](https://ajaymaru.vercel.app/)))
 
 - 🌱 I’m currently learning **Python, MongoDB**
 
-- 👨‍💻 All of my projects are available at [(https://ajaymaru.netlify.app/)]
+- 👨‍💻 All of my projects are available at [([https://ajaymaru.netlify.app/](https://ajaymaru.vercel.app/))]
 
 - 💬 Ask me about **Python, Asp.Net**
 
